@@ -1,0 +1,48 @@
+#body {
+    background-color: rgb(255, 184, 151);
+}
+
+
+#header-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.nav {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-container {
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 25px;
+}
+
+#meme1 {
+    border-radius: 30px;
+}
+
+h3 {
+    font-family: 'Caveat', cursive;
+    text-align: center;
+}
+
+#myButton {
+    width: 90px;
+    height: 30px;
+}
